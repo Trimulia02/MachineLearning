@@ -6,7 +6,7 @@ Direktori ini berisi tiga sub-proyek utama dalam rangka Ujian Tengah Semester (U
 
 ## 1. 📊 Klasifikasi - Tugas Machine Learning
 
-- **Notebook (`ML_Pipeline_Klasifikasi_Pipeline.ipynb`)**  
+- **Notebook (`Classifkation.ipynb`)**  
   Mencakup:
   - Pembersihan dan seleksi fitur
   - Transformasi data dan encoding
@@ -21,7 +21,7 @@ Direktori ini berisi tiga sub-proyek utama dalam rangka Ujian Tengah Semester (U
 
 ## 2. 📈 Regresi - Tugas Machine Learning
 
-- **Notebook (`ML_Pipeline_Regresi_FinalLengkap.ipynb`)**  
+- **Notebook (`RegresionTaks.ipynb`)**  
   Mencakup:
   - Pengumpulan & pembersihan data
   - Seleksi fitur dengan Mutual Information & ANOVA
@@ -38,7 +38,7 @@ Direktori ini berisi tiga sub-proyek utama dalam rangka Ujian Tengah Semester (U
 
 ## 3. 🔍 Clustering - Tugas Data Mining
 
-- **Notebook (`Clustering_UTS_Indonesia.ipynb`)**  
+- **Notebook (`Clustering.ipynb`)**  
   Mencakup:
   - Pra-pemrosesan dan standardisasi data
   - Implementasi algoritma clustering (KMeans, Agglomerative, DBSCAN, GMM, Spectral)

@@ -1,6 +1,6 @@
 # 📘 UTS - Machine Learning Projects
 
-Direktori ini berisi tiga sub-proyek utama dalam rangka Ujian Tengah Semester (UTS) yang mencakup implementasi machine learning untuk tugas klasifikasi, regresi, dan clustering. Setiap proyek terdiri dari notebook Jupyter berformat `.ipynb` yang telah dilengkapi dengan pipeline end-to-end serta analisis menyeluruh.
+Direktori ini berisi tiga sub-proyek utama dalam rangka Ujian Tengah Semester (UTS) yang mencakup implementasi machine learning untuk tugas klasifikasi, regresi, dan clustering. Setiap proyek berformat `.ipynb` yang telah dilengkapi dengan pipeline end-to-end serta analisis menyeluruh.
 
 ---
 
